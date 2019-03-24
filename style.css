@@ -1,0 +1,119 @@
+
+
+body {
+background:	#F5F5DC;
+margin:0;
+padding-top : 0;
+font-family : Arial;
+font-size : 2px;
+color : #333333;
+}
+td {
+vertical-align : top;
+line-height : 20px;
+}
+h1, h2, h3 {
+font-size : 18px;
+font-weight : normal;
+padding : 5 5 5 5px;
+margin : 0;
+}
+.main-table {
+border : 1px solid #F5F5F5;
+background-color :#F5F5F5;
+width : 100%;
+}
+.style1 {
+font-size : 10px;
+}
+.top-img {
+background-image : url(images/top_bg01.jpg);
+background-repeat : no-repeat;
+height : 230px;
+padding-left : 50px;
+padding-top : 20px;
+color : #ffffff;
+}
+.website-title {
+font-family : Georgia;
+color : #FAFAD2;
+text-align : right;
+font-size : 48px;
+letter-spacing : -1px;
+}
+
+.menu {
+height : 40px;
+vertical-align : middle;
+padding-left : 10px;
+padding-right : 10px;
+background-image : url(images/menu_bg.jpg);
+}
+.table-corners {
+width : 940px;
+padding : 10px;
+background-color :#d9b666;
+-moz-border-radius:6px;
+}
+a.menu-link {
+background-image : url(images/menu.jpg);
+height : 30px;
+line-height : 30px;
+background-position : right;
+background-repeat : no-repeat;
+padding-left : 7px;
+padding-right : 14px;
+padding-top : 3px;
+padding-bottom : 3px;
+font-family : Georgia;
+font-size : 18px;
+color : #ffffff;
+font-weight : normal;
+}
+a.menu-link:hover {
+background-image : url(i/menu-bg_hover.gif);
+background-position : center;
+background-repeat : repeat-x;
+color : #ffe7cf;
+}
+.content {
+padding-top : 25px;
+padding-left : 15px;
+padding-right : 60px;
+padding-bottom : 35px;
+}
+.content-right {
+padding-top : 35px;
+
+background-color :#F5F5F5;
+border-left : 1px solid #cccccc;
+}
+a.made-in {
+color : #aaaaaa;
+}
+.footer {
+font-size : 11px;
+font-family : Verdana,微软雅黑;
+color : #555555;
+padding : 15px 10px 5px 20px;
+text-align : right;
+border-top : 1px solid #cccccc;
+}
+p {
+text-align : justify;
+line-height : 20px;
+}
+a.menu-right, a.menu-right:visited {
+font-size : 18px;
+line-height : 40px;
+padding-left : 15px;
+padding right：10px;
+color : #aaaaaa;
+width : 220px;
+display : block;
+border-bottom : 1px solid #cccccc;
+}
+a.menu-right:hover {
+background-color : d9b666;
+color : #d8e9f1;
+}
